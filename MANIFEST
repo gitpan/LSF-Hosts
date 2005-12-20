@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/LSF-Hosts.t
+lib/LSF/Hosts.pm
